@@ -1,5 +1,5 @@
-Fare Evasion 2012 Data
-======================
+Fare Evasion Data
+=================
 
 In April 2013, I filed a [FOIA request](https://www.muckrock.com/foi/new-york-city-17/fare-evasion-data-4975/) for data on fare evasion arrests in 2012. My request was bounced from the MTA to the NYPD, rejected, and then approved on appeal. For $17.50, I received 70 printed pages of tables. I was told that there was no way I would be able to get this data as a digital file. Which, okay. 
 
