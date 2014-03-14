@@ -10,7 +10,7 @@ I'm working on making this data machine-readable and available for people to use
 Original scanned PDFs (thanks to Dave Riordan for scanning and OCR-ing) are in the `pdf` folder. 
 
 Data-fied versions are currently going into the `csv` folder. I used [Tabula](tabula.nerdpower.org)
-to csv-ify the `fare-age.pdf` file. 
+to csv-ify the `fare-age.pdf` file and the `fare-gender.pdf` file. 
 
 ##Data Structure
 
