@@ -9,8 +9,8 @@ I'm working on making this data machine-readable and available for people to use
 
 Original scanned PDFs (thanks to Dave Riordan for scanning and OCR-ing) are in the `pdf` folder. 
 
-Data-fied versions are currently going into the `csv` folder. Right now I'm using [Tabula](tabula.nerdpower.org)
-to csv-ify the `fare-age.pdf` file after ScraperWiki got mad at the header structure. 
+Data-fied versions are currently going into the `csv` folder. I used [Tabula](tabula.nerdpower.org)
+to csv-ify the `fare-age.pdf` file. 
 
 ##Data Structure
 
